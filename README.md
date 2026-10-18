@@ -70,12 +70,13 @@ I like problems that live in the browser: real-time simulation, interface design
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="50%"><img src="https://streak-stats.demolab.com?user=sruthideepa82-cpu&hide_border=true&border_radius=16&background=0D1117&ring=B6FF00&fire=B6FF00&stroke=B6FF00&currStreakNum=B6FF00&sideNums=E6E6E6&sideLabels=E6E6E6&dates=8A8A8A" alt="Contribution streak statistics for Sruthi: current streak, longest streak and total contributions" /></td>
-    <td width="50%"><img src="https://github-activity-graph.vercel.app/graph?username=sruthideepa82-cpu&theme=github-dark&hide_border=true&area=true" alt="GitHub contribution activity graph over the past year" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sruthideepa82-cpu&hide_border=true&border_radius=16&background=0D1117&ring=B6FF00&fire=B6FF00&stroke=B6FF00&currStreakNum=B6FF00&sideNums=E6E6E6&sideLabels=E6E6E6&dates=8A8A8A" alt="Contribution streak statistics for Sruthi: current streak, longest streak and total contributions" />
+</p>
+
+<p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=sruthideepa82-cpu&theme=github-dark&hide_border=true&area=true" alt="GitHub contribution activity graph over the past year" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sruthideepa82-cpu&label=Profile%20views&color=0xB6FF00&style=flat" alt="Profile view counter for Sruthi's GitHub profile" />

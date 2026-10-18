@@ -87,10 +87,11 @@ I like problems that live in the browser: real-time simulation, interface design
 ### Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-sruthideepa82--cpu-B6FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sruthideepa82-cpu)
-[![Instagram](https://img.shields.io/badge/Instagram-GoGreenEAI-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/go.green.eai/)
-[![X](https://img.shields.io/badge/X-GoGreenEAI-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/go_green_eai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sruthi--mar1923-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sruthi-mar1923)
+[![Instagram](https://img.shields.io/badge/Instagram-letsjustsay_yk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/letsjustsay_yk)
+[![Email](https://img.shields.io/badge/Email-sruthideepa82%40gmail.com-B6FF00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sruthideepa82@gmail.com)
 
-<sub>The Instagram and X accounts are the public presence of the EAI project. Everything else I build lives at [github.com/sruthideepa82-cpu](https://github.com/sruthideepa82-cpu).</sub>
+<sub>Go Green EAI — the project's public presence: [Instagram](https://www.instagram.com/go.green.eai/) · [X](https://x.com/go_green_eai)</sub>
 
 ---
 

@@ -1,14 +1,16 @@
 <h1 align="center">Sruthi G</h1>
 
 <p align="center">
-  <sub>B.Sc. Computer Science · Frontend, creative technology and real-time systems</sub>
+  <sub>B.Sc. Computer Science · Frontend · Creative Technology · Real-Time Systems</sub>
 </p>
 
-<p align="center"><em>Curiously wired to explore. Creatively wired to design. Logically wired to build.</em></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:400,600&size=22&pause=1600&color=B6FF00&center=true&width=680&lines=Curiously%20wired%20to%20explore.%7CCreatively%20wired%20to%20design.%7CLogically%20wired%20to%20build.&duration=3000&repeat=true" alt="Curiously wired to explore. Creatively wired to design. Logically wired to build." width="680" />
+</p>
 
 <p align="center">
   <a href="https://github.com/sruthideepa82-cpu/Hawkinrace">
-    <img src="https://img.shields.io/badge/Featured-Real--time_game-B6FF00?style=flat-square&labelColor=0D1117" alt="Featured: real-time racing game built with Phaser 3 and TypeScript" />
+    <img src="https://img.shields.io/badge/Featured-Real--time_racing_game-B6FF00?style=flat-square&labelColor=0D1117" alt="Featured project: HAWKINS Nitro Run, a real-time racing game" />
   </a>
   <img src="https://img.shields.io/badge/Focus-TypeScript_first-B6FF00?style=flat-square&labelColor=0D1117" alt="Focus: TypeScript first" />
   <img src="https://img.shields.io/badge/Focus-Creative_development-B6FF00?style=flat-square&labelColor=0D1117" alt="Focus: creative development" />
@@ -18,9 +20,9 @@
 
 ### About
 
-I like problems that live in the browser: real-time simulation, interface design, and the unglamorous systems that keep both honest. I write TypeScript, I care about how a thing feels to use as much as how it is built, and I would rather measure a claim than assert it — most of the Hawkins work ships with headless harnesses that drive the real game code and check the physics, the track geometry and the race rules.
+I build things that live in the browser: real-time simulation, interface design, and the unglamorous systems that keep both honest. I write TypeScript, I care about how a thing feels to use as much as how it is built, and I would rather measure a claim than assert it — most of the Hawkins work ships with headless harnesses that drive the real game code and check the physics, the track geometry and the race rules.
 
-**What I gravitate toward**
+**Where my attention goes**
 
 - **Real-time systems** — frame-rate-independent simulation, physics and collision that behave the same at 30 fps and 144 fps
 - **Interface design** — motion, layout and the small details that make software feel considered rather than assembled
@@ -33,9 +35,9 @@ I like problems that live in the browser: real-time simulation, interface design
 
 | Project | What it is | Built with |
 | :-- | :-- | :-- |
-| **[HAWKINS: NITRO RUN](https://github.com/sruthideepa82-cpu/Hawkinrace)**<br><sub>Arcade racing game · active</sub> | A web racer built on its own track model rather than a tile map: five circuits generated from spline centrelines, four cars with per-chassis handling, opponents whose speed comes from the measured radius of the corner ahead, and an explicit race state machine covering countdown, laps, pause and the flag. <sub>What sets it apart: the vehicle dynamics, track geometry and race logic are engine-independent and verified by 407 automated checks.</sub> | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Phaser 3](https://img.shields.io/badge/Phaser_3-BA3F92?style=flat-square&logo=phaser&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **[MindTrace](https://github.com/sruthideepa82-cpu/MindTraceo)**<br><sub>Mental-health companion</sub> | A wellness dashboard built around a React Three Fiber orb, a rule-based journal analyzer that turns writing into a weekly pattern chart, and a guided breathing reset. <sub>What sets it apart: real performance engineering rather than a static scene — WebGL is swapped for a CSS fallback below 760px, render loops pause when scrolled out of view, and reduced-motion preferences are respected.</sub> | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-B6FF00?style=flat-square) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-B6FF00?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **[EAI — Environment Awareness Index](https://github.com/sruthideepa82-cpu/EAI)**<br><sub>Sustainability platform</sub> | A complete environmental-education product: a quiz engine with automatic badge awards and score history, a wishlist and cart with local persistence, account and profile management, and eco guidance written around Chennai — from farmers' markets to digital-footprint hygiene. <sub>What sets it apart: the whole thing ships as one dependency-free 205&nbsp;KB HTML file.</sub> | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[HAWKINS: NITRO RUN](https://github.com/sruthideepa82-cpu/Hawkinrace)**<br><sub>Arcade racing game · active</sub> | A web racer built on its own track model rather than a tile map: five circuits generated from spline centrelines, four cars with per-chassis handling, opponents whose speed comes from the measured radius of the corner ahead, and an explicit race state machine covering countdown, laps, pause and the flag. <br><br><sub>What sets it apart: the vehicle dynamics, track geometry and race logic are engine-independent and verified by 407 automated checks.</sub> | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Phaser 3](https://img.shields.io/badge/Phaser_3-BA3F92?style=flat-square&logo=phaser&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **[MindTrace](https://github.com/sruthideepa82-cpu/MindTraceo)**<br><sub>Mental-health companion</sub> | A wellness dashboard built around a React Three Fiber orb, a rule-based journal analyzer that turns writing into a weekly pattern chart, and a guided breathing reset. <br><br><sub>What sets it apart: real performance engineering rather than a static scene — WebGL is swapped for a CSS fallback below 760px, render loops pause when scrolled out of view, and reduced-motion preferences are respected.</sub> | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-B6FF00?style=flat-square) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-B6FF00?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **[EAI — Environment Awareness Index](https://github.com/sruthideepa82-cpu/EAI)**<br><sub>Sustainability platform</sub> | A complete environmental-education product: a quiz engine with automatic badge awards and score history, a wishlist and cart with local persistence, account and profile management, and eco guidance written around Chennai — from farmers' markets to digital-footprint hygiene. <br><br><sub>What sets it apart: the whole thing ships as one dependency-free 205&nbsp;KB HTML file.</sub> | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 

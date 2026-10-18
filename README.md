@@ -1,19 +1,17 @@
-<h1 align="center">Sruthi G</h1>
-
 <p align="center">
-  <sub>B.Sc. Computer Science · Frontend · Creative Technology · Real-Time Systems</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=210&section=header&fontSize=72&text=Sruthi%20G&fontColor=B6FF00&desc=Computer%20Science%20Student%20%C2%B7%20Creative%20Developer&descAlign=50&descSize=22&descColor=8A8A8A&animation=fadeIn" alt="Sruthi G — Computer Science Student, Creative Developer" width="854" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:400,600&size=22&pause=1600&color=B6FF00&center=true&width=680&lines=Curiously%20wired%20to%20explore.%7CCreatively%20wired%20to%20design.%7CLogically%20wired%20to%20build.&duration=3000&repeat=true" alt="Curiously wired to explore. Creatively wired to design. Logically wired to build." width="680" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:400,600&size=21&pause=1600&color=B6FF00&center=true&width=680&lines=Curiously%20wired%20to%20explore.%7CCreatively%20wired%20to%20design.%7CLogically%20wired%20to%20build.&duration=3000&repeat=true" alt="Curiously wired to explore. Creatively wired to design. Logically wired to build." width="680" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sruthideepa82-cpu/Hawkinrace">
-    <img src="https://img.shields.io/badge/Featured-Real--time_racing_game-B6FF00?style=flat-square&labelColor=0D1117" alt="Featured project: HAWKINS Nitro Run, a real-time racing game" />
+    <img src="https://img.shields.io/badge/Featured-Real--time_racing_game-B6FF00?style=flat-square&labelColor=000000" alt="Featured project: HAWKINS Nitro Run, a real-time racing game" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-TypeScript_first-B6FF00?style=flat-square&labelColor=0D1117" alt="Focus: TypeScript first" />
-  <img src="https://img.shields.io/badge/Focus-Creative_development-B6FF00?style=flat-square&labelColor=0D1117" alt="Focus: creative development" />
+  <img src="https://img.shields.io/badge/TypeScript_first-B6FF00?style=flat-square&labelColor=000000" alt="TypeScript first" />
+  <img src="https://img.shields.io/badge/Creative_development-B6FF00?style=flat-square&labelColor=000000" alt="Creative development" />
 </p>
 
 ---
@@ -22,12 +20,12 @@
 
 I build things that live in the browser: real-time simulation, interface design, and the unglamorous systems that keep both honest. I write TypeScript, I care about how a thing feels to use as much as how it is built, and I would rather measure a claim than assert it — most of the Hawkins work ships with headless harnesses that drive the real game code and check the physics, the track geometry and the race rules.
 
-**Where my attention goes**
-
-- **Real-time systems** — frame-rate-independent simulation, physics and collision that behave the same at 30 fps and 144 fps
-- **Interface design** — motion, layout and the small details that make software feel considered rather than assembled
-- **Graphics in the browser** — Three.js, WebGL, and knowing when to fall back to something lighter
-- **Proof over vibes** — regression harnesses, typed state machines, and tests that exercise the shipped code path
+| Focus | What it means in practice |
+| :-- | :-- |
+| **Real-time systems** | Frame-rate-independent simulation, physics and collision that behave the same at 30 fps and 144 fps |
+| **Interface design** | Motion, layout and the small details that make software feel considered rather than assembled |
+| **Graphics in the browser** | Three.js, WebGL, and knowing when to fall back to something lighter |
+| **Proof over vibes** | Regression harnesses, typed state machines, and tests that exercise the shipped code path |
 
 ---
 
@@ -63,17 +61,17 @@ I build things that live in the browser: real-time simulation, interface design,
 
 ---
 
-### GitHub Analytics
+### Analytics
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=sruthideepa82-cpu&show_icons=true&hide_border=true&border_radius=16&bg_color=0D1117&ring_color=B6FF00&line_color=B6FF00&title_color=B6FF00&text_color=E6E6E6&icon_color=B6FF00" alt="GitHub statistics for Sruthi: total commits, pull requests, issues, stars and followers" /></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthideepa82-cpu&layout=compact&hide_border=true&border_radius=16&bg_color=0D1117&ring_color=B6FF00&text_color=E6E6E6&title_color=B6FF00" alt="Most used languages across Sruthi's public repositories" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=sruthideepa82-cpu&show_icons=true&hide_border=true&border_radius=16&bg_color=000000&ring_color=B6FF00&line_color=B6FF00&title_color=B6FF00&text_color=E6E6E6&icon_color=B6FF00" alt="GitHub statistics for Sruthi: total commits, pull requests, issues, stars and followers" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthideepa82-cpu&layout=compact&hide_border=true&border_radius=16&bg_color=000000&ring_color=B6FF00&text_color=E6E6E6&title_color=B6FF00" alt="Most used languages across Sruthi's public repositories" /></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sruthideepa82-cpu&hide_border=true&border_radius=16&background=0D1117&ring=B6FF00&fire=B6FF00&stroke=B6FF00&currStreakNum=B6FF00&sideNums=E6E6E6&sideLabels=E6E6E6&dates=8A8A8A" alt="Contribution streak statistics for Sruthi: current streak, longest streak and total contributions" />
+  <img src="https://streak-stats.demolab.com?user=sruthideepa82-cpu&hide_border=true&border_radius=16&background=000000&ring=B6FF00&fire=B6FF00&stroke=B6FF00&currStreakNum=B6FF00&sideNums=E6E6E6&sideLabels=E6E6E6&dates=8A8A8A" alt="Contribution streak statistics for Sruthi: current streak, longest streak and total contributions" />
 </p>
 
 <p align="center">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sruthideepa82-cpu/sruthideepa82-cpu/main/hero.svg" alt="Sruthi G — Computer Science Student, Creative Developer. Curiously wired to explore. Creatively wired to design. Logically wired to build." width="100%" />
+  <img src="https://raw.githubusercontent.com/sruthideepa82-cpu/sruthideepa82-cpu/main/hero.svg" alt="Sruthi — Computer Science Student, Creative Developer. Curiously wired to explore. Creatively wired to design. Logically wired to build." width="100%" />
 </p>
 
 <p align="center">

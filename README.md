@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:400,600&size=21&pause=1600&color=B6FF00&center=true&width=680&lines=Curiously%20wired%20to%20explore.%7CCreatively%20wired%20to%20design.%7CLogically%20wired%20to%20build.&duration=3000&repeat=true" alt="Curiously wired to explore. Creatively wired to design. Logically wired to build." width="680" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:400,600&size=20&pause=1600&color=B6FF00&center=true&width=1042&lines=Curiously%20wired%20to%20explore.%20Creatively%20wired%20to%20design.%20Logically%20wired%20to%20build.&duration=4000&repeat=true" alt="Curiously wired to explore. Creatively wired to design. Logically wired to build." width="1042" />
 </p>
 
 <p align="center">
@@ -18,7 +18,11 @@
 
 ### About
 
+I enjoy transforming ideas into real-world applications using modern technologies while continuously learning, experimenting, and growing with every project.
+
 I build things that live in the browser: real-time simulation, interface design, and the unglamorous systems that keep both honest. I write TypeScript, I care about how a thing feels to use as much as how it is built, and I would rather measure a claim than assert it — most of the Hawkins work ships with headless harnesses that drive the real game code and check the physics, the track geometry and the race rules.
+
+I did my internship at **[A S CODELABS](https://github.com/a-s-codelabs)**, working inside a team on production client platforms — shipping front-end and reliability fixes in CrossFit OS, and building the invoicing and finance surface in TMS.
 
 | Focus | What it means in practice |
 | :-- | :-- |

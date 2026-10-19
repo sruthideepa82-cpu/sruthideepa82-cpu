@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=210&section=header&fontSize=72&text=Sruthi%20G&fontColor=B6FF00&desc=Computer%20Science%20Student%20%C2%B7%20Creative%20Developer&descAlign=50&descSize=22&descColor=8A8A8A&animation=fadeIn" alt="Sruthi G — Computer Science Student, Creative Developer" width="854" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:400,600&size=20&pause=1600&color=B6FF00&center=true&width=1042&lines=Curiously%20wired%20to%20explore.%20Creatively%20wired%20to%20design.%20Logically%20wired%20to%20build.&duration=4000&repeat=true" alt="Curiously wired to explore. Creatively wired to design. Logically wired to build." width="1042" />
+  <img src="https://raw.githubusercontent.com/sruthideepa82-cpu/sruthideepa82-cpu/main/hero.svg" alt="Sruthi G — Computer Science Student, Creative Developer. Curiously wired to explore. Creatively wired to design. Logically wired to build." width="100%" />
 </p>
 
 <p align="center">

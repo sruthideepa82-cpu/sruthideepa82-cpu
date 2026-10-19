@@ -37,22 +37,15 @@ I build things that live in the browser: real-time simulation, interface design,
 
 ---
 
-### Stack
+### Team Work
 
-**Languages**
+<sub>Team projects at <a href="https://github.com/a-s-codelabs">A S CODELABS</a>. These repositories are private, so the descriptions are credited rather than linked — a visitor cannot open them.</sub>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| Project | What I contributed | Built with |
+| :-- | :-- | :-- |
+| **CrossFit OS**<br><sub>Gym management platform · contributor · Jun&ndash;Oct 2026</sub> | Front-end and reliability work on a pnpm/Turborepo monorepo that spans an Astro web app, an Expo mobile client and an Electron dashboard. Fixed navbar links that only worked from the home page, made gym star ratings actually persist through stale connections, stopped Recharts drawing NaN gridlines in zero-size containers, and gated the kiosk attendance chart until it had dimensions. | ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white) |
+| **TMS — Transport Management System**<br><sub>Freight operations · contributor · May&ndash;Sep 2026</sub> | Built the invoicing and finance surface: a Statement of Account with PDF and print export, bilingual payment receipt vouchers, a cheque workflow and a finance role. Replaced the HTML invoice preview with real PDFs rendered through pdf.js, corrected profit maths to use assignment-level prices, and company-wide employee numbers for staff and drivers. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TanStack Router](https://img.shields.io/badge/TanStack_Router-B6FF00?style=flat-square&labelColor=000000) ![tRPC](https://img.shields.io/badge/tRPC-398CC9?style=flat-square&logo=trpc&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) ![Drizzle](https://img.shields.io/badge/Drizzle-9E5C8C?style=flat-square&labelColor=000000) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-B6FF00?style=for-the-badge) ![Drei](https://img.shields.io/badge/Drei-B6FF00?style=for-the-badge)
-
-**Graphics & motion**
-
-![Phaser 3](https://img.shields.io/badge/Phaser_3-BA3F92?style=for-the-badge&logo=phaser&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-B6FF00?style=for-the-badge)
-
-**Tooling**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![PostCSS](https://img.shields.io/badge/PostCSS-DC3A6C?style=for-the-badge&logo=postcss&logoColor=white) ![Node test runner](https://img.shields.io/badge/Testing-Node_test_runner-B6FF00?style=for-the-badge)
+---
 
 <sub>A Spring Boot + MySQL backend for the Hawkins race service is in development and not public yet.</sub>

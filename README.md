@@ -48,4 +48,17 @@ I did my internship at **[A S CODELABS](https://github.com/a-s-codelabs)**, work
 
 ---
 
+### Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sruthi-mar1923">
+    <img src="https://img.shields.io/badge/LinkedIn-sruthi--mar1923-B6FF00?style=flat-square&labelColor=000000&logo=linkedin&logoColor=black" alt="LinkedIn profile: linkedin.com/in/sruthi-mar1923" />
+  </a>
+  <a href="mailto:sruthideepa82@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sruthideepa82%40gmail.com-B6FF00?style=flat-square&labelColor=000000&logo=gmail&logoColor=black" alt="Email Sruthi at sruthideepa82@gmail.com" />
+  </a>
+</p>
+
+---
+
 <sub>A Spring Boot + MySQL backend for the Hawkins race service is in development and not public yet.</sub>
